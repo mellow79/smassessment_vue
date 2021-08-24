@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # smassessment
 # smassessment_vue
 
+To get the vue front end to work you will need to read these instructions for https://cli.vuejs.org/guide/deployment.html
